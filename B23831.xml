@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A method of government for such publick working alms-houses as may be erected in every county for bringing all idle hands to industry As the best known expedient for restoring and advancing the woollen manufacture. Humbly offered to the Kings most Excellent Majesty and both Houses of Parliament. By R. Haines with allowance.</title>
+            <author>Haines, Richard, 1633-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23831</idno>
+            <idno type="STC">Wing H201A</idno>
+            <idno type="STC">ESTC R215174</idno>
+            <idno type="EEBO-CITATION">99827132</idno>
+            <idno type="PROQUEST">99827132</idno>
+            <idno type="VID">207457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207457)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1886:27, 2171:4, 1778:23b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A method of government for such publick working alms-houses as may be erected in every county for bringing all idle hands to industry As the best known expedient for restoring and advancing the woollen manufacture. Humbly offered to the Kings most Excellent Majesty and both Houses of Parliament. By R. Haines with allowance.</title>
+                  <author>Haines, Richard, 1633-1685.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Langley Curtis on Ludgate-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bodleian Library copy, filmed on UMI "Early English books, 1641-1700", reel 2171, identified as Wing 201aA; however imprint date is 1679.</note>
+                  <note>Imperfect: copies from the Huntington (reel 1886:27) and the University of Illinois (Urbana-Champaign Campus). Libraries (reel 1778:23b) cropped, with loss of imprint; all copies have print show-through; last digit of Bodleian copy imprint date is slightly rubbed.</note>
+                  <note>Item at reel 1778:23b appears as part of England's weal &amp; prosperity proposed: or, Reasons for erecting publick vvork-houses in every county (Wing H200A).</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery (UMI reel 1886), the University of Illinois (Urbana-Champaign Campus). Library, (UMI reel 1778), and the Bodleian Library, Oxford (UMI reel 2171).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almshouses --  England --  Early works to 1800.</term>
+               <term>Public welfare --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207457:1" rendition="simple:additions"/>
+            <p>A METHOD OF GOVERNMENT FOR SUCH Publick Working ALMS-HOUSES As may be Erected in every County for bringing all idle hands to Induſtry.</p>
+            <p>AS The beſt known Expedient for reſtoring and ad<g ref="char:EOLhyphen"/>vancing the Woollen Manufacture.</p>
+            <p>HUMBLY Offered to the KINGS moſt Excellent MAJESTY and both Houſes of PARLIAMENT.</p>
+            <p>BY <hi>R. Haines</hi>
+            </p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley Curtis</hi> on <hi>Ludgate-hill,</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:207457:2"/>
+            <head>A Method of Government for Publick Working Alms-houſes, <hi>&amp;c.</hi>
+            </head>
+            <p>THE Scope or End aimed at, and promiſed by my former Propoſals, is, That all the Wool of <hi>England,</hi> and what <hi>Scotland</hi> and <hi>Ireland</hi> have to ſpare, may be Manufactured in <hi>England,</hi> as faſt as it grows and ariſes, on ſuch Terms as that all the Cloth we have to ſpare, being exported, may find quick Markets as faſt as 'tis made.</p>
+            <p>The Expedients or means to Effect All this; are,
+<list>
+                  <item>Firſt in General, To bring all poor People and idle hands to Induſtry.</item>
+                  <item>Secondly, in particular, as the only effectual Way or Me<g ref="char:EOLhyphen"/>thod, to do this to the beſt advantage it is propoſed,
+<list>
+                        <item>
+                           <hi>That two or three, or more, Publick Work-houſes be Ere<g ref="char:EOLhyphen"/>cted in every County, where all ſuch poor people and idle hands may under good Government he conſtantly employed in that Manufacture,</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Which having been peruſed and conſidered by ſeveral Pub<g ref="char:EOLhyphen"/>lick Spirited Perſons, known Promoters of the Nations wealth and ſafety, they have generally very much approved and encouraged the ſaid Expedient, as moſt certain, feaſible, and effectual to accompliſh the great and good ends aforeſaid; If I could but propoſe ſuch a Method of Government in theſe Work-houſes as the Nation may be ſecured of theſe four things, <hi>viz.</hi> The Country from being cheated of their Mo<g ref="char:EOLhyphen"/>ney raiſed for erecting and furniſhing ſuch Houſes; the Poor from being abuſed; unfit Perſons kept from being Officers and bearing Rule in them; and Juſtice from being wreſted ſo as not to redreſs Grievances and puniſh Offenders.</p>
+            <p>Wherefore (with all ſubmiſſion to better Judgments) I hum<g ref="char:EOLhyphen"/>bly offer ſuch a Method of Government, as far as concerns the preſervation of the Stock raiſed, and prevention of Frauds and Corruptions in Officers, as will, I conceive, remove all Appre<g ref="char:EOLhyphen"/>henſions of any the before mentioned miſchiefs, that ſo all ju<g ref="char:EOLhyphen"/>dicious perſons may be entirely ſatisfied: As thus,</p>
+            <pb n="3" facs="tcp:207457:2"/>
+            <p> Since all Pariſhes are to contribute to this Work, and every Pariſhoner is concerned in the Charge, and may reap Benefit by it, if honeſtly managed, Therefore, becauſe it cannot be ima<g ref="char:EOLhyphen"/>gined that any people will cheat or injure themſelves, let each perſon in every Pariſh be concerned in or about the Govern<g ref="char:EOLhyphen"/>ment or Inſpection thereof; as follows.</p>
+            <list>
+               <item>1. That it be Enacted, that all contributing Pariſhioners, or the greateſt part of them, meet Quarterly in their own Pariſh, and elect one, or more, as their Overſeer or Dele<g ref="char:EOLhyphen"/>gates for this Inſpection; And ſo every Pariſh to chuſe and ſend their Overſeers every Quarter of the Year to inſpect the State of that houſe to which they belong. Each Pariſh neglecting to chuſe, to forfeit 5 <hi>l.</hi> to the Treaſury of the ſaid Hoſpital. Each Overſeer to be allowed 2 <hi>s.</hi> 6 <hi>d.</hi> a day by his Pariſh for the time he is out on this Affair on Horſeback; and 1 <hi>s.</hi> 6 <hi>d.</hi> being out on Foot, provided that none conti<g ref="char:EOLhyphen"/>nue out above 6 or 7 days at one time. Or if this ſeem too burdenſome, two, or three, or more, ſmall Pariſhes may joyn to this purpoſe as one.</item>
+               <item>2. That theſe Overſeers, being Aſſembled, may have full Power to elect Governours, preſcribe Rules and Orders, chuſe Truſtees, appoint Officers, enquire into the Welfare of their reſpective Poor there, hear and redreſs their Grievances, ſee that they be not abuſed or diſcouraged, reform all diſorders, call each Officer or Truſtee to an account, turn them out, and elect new ones as often as they think neceſſary, <hi>&amp;c.</hi> To which purpoſe they may ſub<g ref="char:EOLhyphen"/>divide themſelves into ſeveral Companies, and diſpatch much buſineſs in little time.</item>
+               <item>3. That all men in this Aſſembly may be of equal Authority, and no one perſon over-rule the reſt, who ſhall likewiſe before they are admitted, oblige themſelves by Oath, or ſolemn Promiſe made before a Magiſtrate, to do thoſe things that are juſt and honeſt, to ſuffer no wrongs or inju<g ref="char:EOLhyphen"/>ries to paſs uncorrected, to do nothing for favour or preju<g ref="char:EOLhyphen"/>dice, but to perform all that lies in his power for the ſafety and publick good of the Stock and Houſe, and to give a juſt and true account at his return when called thereunto.</item>
+               <item>4. That no known rude or diſorderly Perſon ſhall be permit<g ref="char:EOLhyphen"/>ted
+<pb n="4" facs="tcp:207457:3"/>to have any Office there, but that for the encourage<g ref="char:EOLhyphen"/>ment of ſuch as are ſent to the Houſe to earn their Living, all inferior Offices or Places of Preferment may be con<g ref="char:EOLhyphen"/>ferred on ſuch of the Houſe as moſt deſerve it, if capable.</item>
+               <item>5. That if it be known any Perſon or Perſons, directly or in<g ref="char:EOLhyphen"/>directly, hath given or taken any Bribe or Fee, or offer<g ref="char:EOLhyphen"/>ed ſo to do, in order to obtain or confer any Office or Truſt, or do improve his Intereſt to promote or continue any diſhoneſt ſcandalous perſon in Office, then every ſuch Perſon ſhall thenceforth for ever be incapable of having or holding any Office in the ſaid Work-houſes, or giving his Voice concerning the ſame in any meeting of the Pa<g ref="char:EOLhyphen"/>riſh or Overſeers.</item>
+               <item>6. That the Aſſembly of Overſeers, with the Aſſiſtance of a Magiſtrate, have power to injoyn all Officers and Tru<g ref="char:EOLhyphen"/>ſtees of the houſe, either by Oath or ſolemn Promiſe, that they ſhall act according to ſuch Rules and Orders as ſhall be agreed on in the ſaid Aſſembly; that they ſhall not conceal any ill Practiſes in any but diſcover them to the next Quarterly Aſſembly: That they ſhall every Quarter give a fair and juſt Account to that Aſſembly of all Moneys by them received or disburſed; what Goods they buy or ſell, and the quantity and prizes, and what Goods or Money they have in their Cuſtody; And that any one breaking ſuch their Oath or ſolemn Promiſe ſhall be pu<g ref="char:EOLhyphen"/>niſht as in the Caſe of Perjury; and beſides, the Offender to make ſatisfaction, for what he hath detained, imbeziled, or defrauded, to the houſe, or thoſe that intruſted him.</item>
+               <item>7. That the Overſeers neglecting at the time appointed to uſe their utmoſt endeavour to take a true and juſt account of all perſons intruſted, or failing to deliver a true account thereof to their reſpective Pariſhes, ſhall forfeit five pound a-piece, to be paid to the Treaſury of the Hoſpital.</item>
+               <item>8. That for the building and firſt ſtocking ſuch Work-hou<g ref="char:EOLhyphen"/>ſes, every Pariſh, or Pariſhes united, ſhall (till the ſame are finiſht and Government ſettled) ſend their Overſeers every Fortnight, or Month, who ſhall carry the proporti<g ref="char:EOLhyphen"/>on of money payable thereunto by ſuch Pariſhes reſpective<g ref="char:EOLhyphen"/>ly. And that all Expenditors &amp; Truſtees imployed for car<g ref="char:EOLhyphen"/>rying
+<pb n="5" facs="tcp:207457:3"/>on the work, ſhall be choſen by ſuch Overſeers, and be accountable to them till the houſe be finiſht and ſettled.</item>
+               <item>9. That if any difference ariſe between the Overſeers of the Pariſhes, and the Truſtees of the Houſe, it ſhall be refer<g ref="char:EOLhyphen"/>ed to a meeting of the reſpective Pariſhes, concern'd in ſuch Workhouſe; And in caſe the like difference ariſe between the Pariſhioners and their Overſeers, the ſame be referr'd to the next quarter Seſſions, or if it require ſpeed, then to two Juſtices, one to be choſen by the Pa<g ref="char:EOLhyphen"/>riſh, the other by the Overſeers; Provided none ſhall have power to hinder the Pariſh or Pariſhes from chuſing ſuch Overſeers as they ſhall think moſt fit to be truſted; or turn<g ref="char:EOLhyphen"/>ing out ſuch as they find diſhoneſt.</item>
+               <item>10. That every Pariſh, and Pariſhes united, do bring a fair ac<g ref="char:EOLhyphen"/>count of what Moneys are Collected for the preſent year, and how diſpoſed of, what remains in hand, and what poor they relieve at home, and in the Hoſpital, to the Juſti<g ref="char:EOLhyphen"/>ces at their Eaſter ſitting, after the manner now practiſed.</item>
+               <item>11. That the Pariſhes united ſhall be equally Taxt at a pound<g ref="char:EOLhyphen"/>rate for the relief of their poor, and that their Taxes and ac<g ref="char:EOLhyphen"/>counts be confirm'd by the Juſtices, and that the Juſtices may in join the Pariſhes to contribute what is fit, when o<g ref="char:EOLhyphen"/>therwiſe they refuſe, and that any poor Inhabitant when abuſed, and cannot be Redreſs'd, may make his caſe known to the Juſtice, when the Governors or Overſeers ſhall re<g ref="char:EOLhyphen"/>fuſe to do their Office.</item>
+            </list>
+            <p>This Method of Government or Inſpection I humbly offer as moſt ſafe, becauſe from head to foot the Intereſt of one Member hath its dependance on the other.</p>
+            <list>
+               <item>1. 'Tis the Intereſt of each Pariſh to Elect honeſt Overſeers,</item>
+               <item>2. 'Tis the Intereſt of theſe Overſeers to Act righteous things, and Elect honeſt Truſtees, not only becauſe, if they betray their Truſt, they are in danger of puniſhment and diſho<g ref="char:EOLhyphen"/>nour, but alſo, becauſe their own private Intereſt lies at ſtake in the Common intereſt of their Pariſhes.</item>
+               <item>3. 'Tis the Intereſt of the Officers &amp; Truſtees, whether Honeſt men or Knaves, to do honeſtly, becauſe then they may con<g ref="char:EOLhyphen"/>tinue in their places of reaſonable profit, But if they do o<g ref="char:EOLhyphen"/>therwiſe under ſo many Eyes, and ſuch frequent inſpecti<g ref="char:EOLhyphen"/>ons,
+<pb n="6" facs="tcp:207457:4"/>they cannot hope to conceal their miſdemeanors, and then muſt be ſeverely corrected, and pay dearly for it.</item>
+            </list>
+            <p>Thus much for the Form of Government, as to the Go<g ref="char:EOLhyphen"/>vernors; I ſhall now add a few words concerning the Perſons to be Governed; The rather for that our deſign is abuſively Repre<g ref="char:EOLhyphen"/>ſented, as if we intended theſe houſes to be places of Slavery, and to keep people <hi>per</hi> force there all their Lives, whereas we propoſe only this.</p>
+            <list>
+               <item>1. That the Children of all poor people, who are Chargea<g ref="char:EOLhyphen"/>ble to the Pariſh, be without abuſe imployed in theſe Houſes at ſix years old and upwards, and all Impotent peo<g ref="char:EOLhyphen"/>ple who are capable of imployment, and do not Earn their livings at home, having no Children under the Age of ſix years to be maintained.</item>
+               <item>2. That the Men-children brought up in theſe Houſes have their Liberty to go to Trades, or Husbandry, when they come to the age of 18. years. And the Maiden-Children liberty at the ſame age to learn Houſewifry.</item>
+               <item>3. That all Beggars, Vagrants <hi>&amp;c.</hi> who have no habitati<g ref="char:EOLhyphen"/>on, nor will earn their Livings in any lawful Imployment, be placed there.</item>
+               <item>4. That all dangerous perſons, Criminals, <hi>&amp;c.</hi> Whom the law condemns to be hang'd, <hi>&amp;c.</hi> (Except in the Caſe of Mur<g ref="char:EOLhyphen"/>ther and Treaſon) eſpecially ſuch as are guilty of <hi>Perjury</hi> &amp; <hi>Forgery,</hi> may be confined to theſe Houſes during Life, or for a certain Term of years, to ſerve the publick, being able by their Labour to maintain as many more as themſelves.</item>
+               <item>5. That all Debtors in priſon, not able to pay their Debts, or maintain themſelves (whereof many hundreds there are ready to ſtarve) may remove themſelves to this Hoſpital, where they may live Comfortably and be Inſtruments for publick good.</item>
+            </list>
+            <p>Theſe are the perſons that may compoſe &amp; fill up theſe Hou<g ref="char:EOLhyphen"/>ſes. As for the Officers way of providing their Diet, Cloaths, and other circumſtances, we need not here particularize, <hi>Chriſts Hoſpital,</hi> or the like Foundation, may afford a good Preſident for us to imitate.</p>
+            <p>As for that Common Objection and Diſcouragement from the unhappy miſcarriage of <hi>Clarkenwell</hi> Work-houſe, and the
+<pb n="7" facs="tcp:207457:4"/>like, which to prevent the moſt happy Reformation and Weal of our Nation, remains a Gazing-ſtock to diſcourage all pub<g ref="char:EOLhyphen"/>lick Spirits, as the Devil and ſelf-intereſted people would have it, The ſame ought to be no plea or obſtruction to what we propoſe. For,
+<list>
+                  <item>1. That which rendred that and other Houſes unſucceſsful, was the ill-government thereof, but ſuch regular method of Government as we have offered, at leaſt with ſome a<g ref="char:EOLhyphen"/>mendments, will prevent all ſuch inconveniencies.</item>
+                  <item>2. As for that Houſe, 'tis nothing ſtrange that it did miſcar<g ref="char:EOLhyphen"/>ry, rather it would have been ſtrange if it had not; ſince the perſons governing ſuch Houſes ought to be inferior to thoſe by whom they are intruſted, that the latter may ſpee<g ref="char:EOLhyphen"/>dily bring them to account, and if they find any one diſ<g ref="char:EOLhyphen"/>honeſt, correct and turn him out of doors; whereas the Governors of <hi>Clerkenwell</hi>-houſe were great men, and au<g ref="char:EOLhyphen"/>thorized to raiſe money at pleaſure, not to be corrected, but by Act of Parliament, <hi>&amp;c.</hi> So that their quality, and buſineſs, or want of honeſty, hindred them from uſing that inſpection over inferior Officers as was neceſſary, and when money came into their hands, and was diverted who could force them to an account?</item>
+                  <item>3. If this be a precedent of <hi>ill-ſucceſs,</hi> and only for the reaſon aforeſaid, we can ſhew you many precedents in <hi>Holland, &amp;c.</hi> of ſuch Work-houſes erected &amp; managed with <hi>good-ſucceſs;</hi> nay there is ſcarce any thing contributes more to the wealth and ſtrength of that Nation, than their <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>dence and in<g ref="char:EOLhyphen"/>duſtry in this reſpect; but there they are <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ged not by Grandees, as <hi>Clerkenwell</hi> was to be, but by honeſt labo<g ref="char:EOLhyphen"/>rious men, who if they fail in their duty are forthwith ſe<g ref="char:EOLhyphen"/>verely corrected. A perſon intruſted in a Spin-houſe in <hi>Amſterdam,</hi> was publickly whipt and turn'd out of doors for being partial, <hi>viz.</hi> becauſe by his connivance a young woman, who was ſent thither to work for her living, made her eſcape. Another Officer was whipt and committed to the Raſp-houſe, for diminiſhing what was allowed for the comfortable maintenance of the Poor. At <hi>Leiden</hi> I ſaw a fellow moſt ſeverely whipt upon a Scaffold, erected for that very purpoſe before the Spin-houſe, in view of many
+<pb n="8" facs="tcp:207457:5"/>thouſands, and after committed to the Raſp-houſe, for that he under pretence of being zealous to ſerve the States, inricht himſelf by abuſing and oppreſſing the Poor. 'Twas for want of ſuch ſtrict Government <hi>Clarkenwell, &amp;c.</hi> came to naught.</item>
+                  <item>4. If becauſe that Houſe, meerly for want of right method, and perſons of fit qualifications to govern it, miſcarried, therefore no ſuch Houſes muſt be made uſe of; may not our Merchants as well conclude, that becauſe ſome Ships, for want of an honeſt fit Maſter or skilful Pilot, have been caſt away; therefore tho there be men enough whoſe qualifications and integrity are ſufficient, yet they will never venture to ſend forth any more Ships; If you ſay the caſe is different, for tho the Houſes have failed, yet we know moſt of our Ships return ſafe, then I may return you the ſame anſwer; In <hi>Holland</hi> none of theſe Houſes <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>refore if we take right method of government, our Houſes <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> often as our <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hips a<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> wil<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> become as profitable to the Kingdom, for if the Houſes proſper, to be ſure our Shipping will increaſe, therefore whoever is an enemy to theſe Houſes, is as great an enemy to the en<g ref="char:EOLhyphen"/>creaſe of our Ships and Seamen, and conſequently an ene<g ref="char:EOLhyphen"/>my to the true, Wealth, Safety and Intereſt of the Engliſh Nation.</item>
+               </list>
+            </p>
+            <p>At leaſt ſince this expedient is no new Project, but dayly <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ractiſed with <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>traordinary ſucceſs and advantage by our Neighbors 'Tis humbl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hoped that the ſame ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll not be con<g ref="char:EOLhyphen"/>temned <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <hi>before they have firſt ſough<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out, and demonſtrated ſome more certain, effectual and fea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble expedients to accompliſh the wo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k in hand, and by the Propoſer humbly offered, <hi>viz.</hi>
+               </hi> To convert all the Wool of <hi>England,</hi> and what <hi>Scotland</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land</hi> have to ſpare, into Cloth, on ſuch terms as to vend the Cloth as faſt as 'tis made, whereby 30 or 40 hundred thouſand pounds, <hi>per annum</hi> may be gain'd to the Nation; and all poor people bred up to ſuch an habit of induſtry, that for the future a Beggar may not be ſeen in the Kingdom; but neither they nor their childrens children ſhall ever want a lawful Imploy<g ref="char:EOLhyphen"/>ment, Food, Raiment, nor Habitation.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
